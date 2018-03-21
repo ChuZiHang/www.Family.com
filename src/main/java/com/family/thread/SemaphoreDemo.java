@@ -1,4 +1,4 @@
-package com.family.lesson;
+package com.family.thread;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
